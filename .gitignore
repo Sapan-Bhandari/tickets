@@ -10,7 +10,7 @@ HELP.md
 # Maven target/ and Gradle build/ directories
 target/
 build/
-!.mvn/wrapper/maven-wrapper.jar
+
 
 # Logs and temporary files
 *.log
